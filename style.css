@@ -1,0 +1,10 @@
+ #section1 {
+     background-image: url('used-images/banner.jpg');
+ }
+
+ h1 {
+     font-family: 'Ubuntu', sans-serif;
+     text-align: center;
+     font-size: 48px;
+     color: azure;
+ }
