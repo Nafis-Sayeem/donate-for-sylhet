@@ -88,3 +88,11 @@
  #button-align {
      margin-left: 220px;
  }
+
+ #input {
+     text-decoration: underline;
+     text-align: center;
+     margin-top: 70px;
+     outline: none;
+
+ }
