@@ -162,3 +162,53 @@
      margin-top: 150px;
      padding-top: 100px;
  }
+
+ .email {
+     margin-top: 100px;
+     margin-left: 300px;
+     margin-right: 100px;
+     text-align: center;
+     align-items: center;
+     display: flex;
+     flex-flow: row wrap;
+     height: 150px;
+     width: 50%;
+     background-color: rgb(246, 188, 71);
+     justify-content: center;
+ }
+
+ #email-input {
+     text-decoration: none;
+     height: 36px;
+     width: 250px;
+     background-color: rgb(248, 223, 148);
+ }
+
+ #email-button {
+     height: 40px;
+     width: 150px;
+     background-color: rgb(248, 223, 148);
+     border-width: 5px;
+     border-color: rgb(184, 120, 3);
+ }
+
+ #footer-h {
+     background-color: darkgoldenrod;
+     color: azure;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-align: center;
+     padding: 20px;
+     margin: 0%;
+     margin-top: 50px;
+
+ }
+
+ #footer-p {
+     background-color: darkgoldenrod;
+     color: azure;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-align: center;
+     padding: 10px;
+     margin: 0%;
+
+ }
